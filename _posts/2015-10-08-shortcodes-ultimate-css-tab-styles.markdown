@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Shortcodes Ultimate CSS Tab Styles"
-date:   2015-10-08 18:30:12
-categories: jekyll update
+date:   2015-10-08
 ---
 At [Premazon](http://www.premazon.com) we use [Shortcodes Ultimate](https://wordpress.org/plugins/shortcodes-ultimate/) on a lot of our [Wordpress](https://wordpress.org/) sites. We regularly need to style those plugins.
 
