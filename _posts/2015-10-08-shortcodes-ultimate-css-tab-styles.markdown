@@ -1,6 +1,6 @@
 ---
 layout: post
-title "Shortcodes Ultimate CSS Tab Styles"
+title: "Shortcodes Ultimate CSS Tab Styles"
 date:   2015-10-08 18:30:12
 categories: jekyll update
 ---
